@@ -5,4 +5,4 @@
 
 
 
-*Note*：以上内容主要来自[front-end-collect](https://github.com/foru17/front-end-collect)以及[front-end-plugins](https://github.com/iamjoel/front-end-plugins)
+*Note*：以上内容主要基于[front-end-collect](https://github.com/foru17/front-end-collect)以及[front-end-plugins](https://github.com/iamjoel/front-end-plugins)这个两个项目进行修改，在此表示感谢！
